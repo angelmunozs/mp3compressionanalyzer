@@ -4,7 +4,7 @@ _A MATLAB script to help subjective analysis of MPEG-1 Layer III (MP3) compressi
 
 ## Usage
 
-###1. Open script
+### 1. Open script
 
 Open MATLAB, navigate to project floder and open the main script, called `analyze.m`.
 
